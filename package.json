@@ -1,0 +1,12 @@
+{
+  "name": "learnn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
+}

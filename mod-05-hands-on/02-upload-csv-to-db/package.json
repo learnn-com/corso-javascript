@@ -1,0 +1,11 @@
+{
+  "name": "02-upload-csv-to-db",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.0.2",
+    "mysql2": "^2.3.3"
+  }
+}
